@@ -26,7 +26,7 @@ Esta aplicación realiza web scraping de la plataforma Chollometro para encontra
 | Categoría Juegos               | Categoría Salud               |
 |-----------------------|-------------------------|
 | ![Texto 1](chollosjuego.jpg) | ![Texto 2](chollossalud.jpg) |
-| Categoría Libros             | Categorías Camping            |
+| Categoría Libros             | Categoría Camping            |
 | ![Texto 3](chollosebook.jpg) | ![Texto 4](cholloscampings.jpg) |
 
 ---
