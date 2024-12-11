@@ -1,0 +1,11 @@
+numpy
+pyrebase4
+opencv-python
+imagekitio
+nltk
+requests
+pillow==9.5
+openpyxl
+beautifulsoup4
+selenium
+pyTelegramBotAPI
